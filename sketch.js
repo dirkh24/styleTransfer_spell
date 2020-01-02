@@ -20,7 +20,7 @@ function setup() {
   video.hide();
 
   // The results image from the style transfer
-  resultImg = createImg('');
+  resultImg = createImg('','The results image from the style transfer');
   resultImg.hide();
 
   // Create a new Style Transfer method with a defined style.
