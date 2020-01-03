@@ -1,8 +1,11 @@
+# This is a fork from the repository: https://github.com/yining1023/styleTransfer_spell 
+I changed the libraries p5 and ml5 to new versions and adjusted the function createImg
+
 # styleTransfer_spell
 Style Transfer example with [ml5.js](http://ml5js.org/), training the model with [Spell.run](https://learn.spell.run/)
 
-#### Demo: [https://yining1023.github.io/styleTransfer_spell/](https://yining1023.github.io/styleTransfer_spell/.)
-https://github.com/yining1023/styleTransfer_spell
+#### Demo: [https://dirkh24.github.io/styleTransfer_spell/](https://dirkh24.github.io/styleTransfer_spell/.)
+https://github.com/dirkh24/styleTransfer_spell
 Here are some [slides](https://bit.ly/2xB9t8K) that introduce what is style transfer and how does it work.
 
 ## Training a style transfer model with Spell!
